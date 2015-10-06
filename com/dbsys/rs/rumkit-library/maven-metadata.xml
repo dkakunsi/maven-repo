@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dbsys.rs</groupId>
+  <artifactId>rumkit-library</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.1-SNAPSHOT</version>
+      <version>0.1.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151006120746</lastUpdated>
+  </versioning>
+</metadata>
