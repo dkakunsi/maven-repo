@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.dbsys.rs</groupId>
-  <artifactId>rumkit-security</artifactId>
-  <version>0.0.5-SNAPSHOT</version>
+  <artifactId>rumkit-connector</artifactId>
+  <version>0.2.6-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20151014.100307</timestamp>
-      <buildNumber>8</buildNumber>
+      <timestamp>20151014.100811</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20151014100307</lastUpdated>
+    <lastUpdated>20151014100811</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.5-20151014.100307-8</value>
-        <updated>20151014100307</updated>
+        <value>0.2.6-20151014.100811-1</value>
+        <updated>20151014100811</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.5-20151014.100307-8</value>
-        <updated>20151014100307</updated>
+        <value>0.2.6-20151014.100811-1</value>
+        <updated>20151014100811</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
