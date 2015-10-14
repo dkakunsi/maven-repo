@@ -36,7 +36,10 @@
       <version>0.3.8-SNAPSHOT</version>
       <version>0.3.9-SNAPSHOT</version>
       <version>0.3.10-SNAPSHOT</version>
+      <version>0.3.11-SNAPSHOT</version>
+      <version>0.3.12-SNAPSHOT</version>
+      <version>0.3.13-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20151012074048</lastUpdated>
+    <lastUpdated>20151014030029</lastUpdated>
   </versioning>
 </metadata>
