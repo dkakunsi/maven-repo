@@ -45,7 +45,14 @@
       <version>0.3.17-SNAPSHOT</version>
       <version>0.3.18-SNAPSHOT</version>
       <version>0.3.19-SNAPSHOT</version>
+      <version>0.4.0-SNAPSHOT</version>
+      <version>0.4.1-SNAPSHOT</version>
+      <version>0.4.3-SNAPSHOT</version>
+      <version>0.4.2-SNAPSHOT</version>
+      <version>0.4.4-SNAPSHOT</version>
+      <version>0.4.5-SNAPSHOT</version>
+      <version>0.4.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20151019015719</lastUpdated>
+    <lastUpdated>20151026173917</lastUpdated>
   </versioning>
 </metadata>
