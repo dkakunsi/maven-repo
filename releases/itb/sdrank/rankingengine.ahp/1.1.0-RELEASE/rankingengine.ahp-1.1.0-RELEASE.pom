@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>itb.sdrank</groupId>
 	<artifactId>rankingengine.ahp</artifactId>
-	<version>1.0.0-RELEASE</version>
+	<version>1.1.0-RELEASE</version>
 	<name>SDRank's AHP Ranking Engine</name>
 	<description>AHP-specific ranking engine for SDRank system.</description>
 
@@ -45,7 +45,7 @@
 	</repositories>
 
 	<properties>
-		<sdrank-library.version>0.1.1-SNAPSHOT</sdrank-library.version>
+		<sdrank-library.version>0.3.0-SNAPSHOT</sdrank-library.version>
 		<junit.version>4.11</junit.version>
 	</properties>
 

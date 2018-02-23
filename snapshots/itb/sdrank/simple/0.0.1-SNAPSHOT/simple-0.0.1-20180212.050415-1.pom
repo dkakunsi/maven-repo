@@ -2,14 +2,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>itb.sdrank</groupId>
-	<artifactId>rankingengine.ahp</artifactId>
-	<version>1.0.0-RELEASE</version>
-	<name>SDRank's AHP Ranking Engine</name>
-	<description>AHP-specific ranking engine for SDRank system.</description>
+	<artifactId>simple</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Simple SDRank</name>
+	<description>Simple implementation of SDRank's Discovery and Ranking Engine.</description>
 
 	<build>
 		<sourceDirectory>src</sourceDirectory>
-		<testSourceDirectory>test</testSourceDirectory>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -45,13 +44,11 @@
 	</repositories>
 
 	<properties>
-		<sdrank-library.version>0.1.1-SNAPSHOT</sdrank-library.version>
+		<sdrank-library.version>0.1.0-SNAPSHOT</sdrank-library.version>
 		<junit.version>4.11</junit.version>
 	</properties>
 
 	<dependencies>
-
-		<!-- Own dependencies -->
 		<dependency>
 			<groupId>itb.sdrank</groupId>
 			<artifactId>lib</artifactId>

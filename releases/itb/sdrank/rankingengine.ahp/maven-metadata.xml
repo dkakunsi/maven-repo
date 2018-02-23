@@ -3,10 +3,11 @@
   <groupId>itb.sdrank</groupId>
   <artifactId>rankingengine.ahp</artifactId>
   <versioning>
-    <release>1.0.0-RELEASE</release>
+    <release>1.1.0-RELEASE</release>
     <versions>
       <version>1.0.0-RELEASE</version>
+      <version>1.1.0-RELEASE</version>
     </versions>
-    <lastUpdated>20180212050151</lastUpdated>
+    <lastUpdated>20180223073117</lastUpdated>
   </versioning>
 </metadata>
